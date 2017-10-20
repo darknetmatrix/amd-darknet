@@ -8,14 +8,9 @@
 #
 ##################################################################################################################
 
-echo "Do not forget to change with qtconfig-qt4"
-echo " to something else than gkt+ and save "
-echo " then in terminal -- insync start"
 
-echo "Press enter to continue"; read dummy;
-
-package="insync"
-command="insync"
+package="gradio"
+command="gradio"
 
 #----------------------------------------------------------------------------------
 
