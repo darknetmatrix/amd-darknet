@@ -1,2 +1,2 @@
 # amd-darknet
-scripts for ArchMergeD &amp; Arch
+scripts for Arcolinux &amp; Arch
