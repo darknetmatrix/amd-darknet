@@ -1,2 +1,2 @@
 # amd-darknet
-scripts for Arcolinux &amp; Arch
+scripts for Arch
